@@ -1,1 +1,1 @@
-# 04-minchan-AIProject-01-test
+# 04-minchan-AIDev-01-test
